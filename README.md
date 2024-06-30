@@ -40,12 +40,6 @@ The AdventureWorks Report project showcases comprehensive sales, customer demogr
 
 - Power BI Desktop
 
-## Example Visualizations
-
-![Sales Overview](images/Dashboard_Icon_Blue.png)
-![Customer Demographics](images/Customer_Icon_Blue.png)
-![Product Performance](images/Product_Icon_Blue.png)
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
