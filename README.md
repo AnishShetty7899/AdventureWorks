@@ -42,9 +42,9 @@ The AdventureWorks Report project showcases comprehensive sales, customer demogr
 
 ## Example Visualizations
 
-![Sales Overview](images/sales_overview.png)
-![Customer Demographics](images/customer_demographics.png)
-![Product Performance](images/product_performance.png)
+![Sales Overview](images/Dashboard_Icon_Blue.png)
+![Customer Demographics](images/Customer_Icon_Blue.png)
+![Product Performance](images/Product_Icon_Blue.png)
 
 ## Contributing
 
